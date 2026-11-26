@@ -1,0 +1,6 @@
+{
+  "name": "Nexo - Tu Guía Accesible",
+  "description": "Traductor y orientador accesible de trámites y documentos oficiales en palabras simples y en tu idioma.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

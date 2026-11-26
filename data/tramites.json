@@ -1,0 +1,20 @@
+[
+  {
+    "id": "beca-01",
+    "titulo": "Beca Bienestar para Estudiantes",
+    "idioma": "Español",
+    "que_es": "Es un apoyo económico de $1,900 pesos cada dos meses para que sigas estudiando.",
+    "fecha_limite": "Viernes 15 de diciembre",
+    "pasos": [
+      "Reúne tu acta de nacimiento, tu CURP y tu constancia de estudios.",
+      "Acude al módulo de atención escolar o registra tus datos en el portal oficial.",
+      "Guarda tu comprobante de registro para saber cuándo recoger tu tarjeta."
+    ],
+    "requisitos": [
+      { "texto": "Acta de nacimiento original", "listo": true },
+      { "texto": "CURP actualizada", "listo": true },
+      { "texto": "Constancia de estudios de tu escuela", "listo": false }
+    ],
+    "texto_para_voz": "Beca Bienestar para Estudiantes. Es un apoyo económico de 1,900 pesos cada dos meses para que sigas estudiando. La fecha límite es el viernes 15 de diciembre. Necesitas llevar tu acta de nacimiento original, tu CURP actualizada y una constancia de estudios de tu escuela."
+  }
+]
